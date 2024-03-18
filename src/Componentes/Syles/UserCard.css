@@ -1,0 +1,57 @@
+.user_hr {
+   height: 3px; 
+   background-color: black;
+   width: 50%;
+}
+
+.user_email{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.user_dt {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.user_span {
+    font-size: 24px;
+    color: blue;
+}
+
+.user_delete {
+    padding: 10px 20px;
+    background-color: rgb(207, 46, 46);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+
+.user_delete:hover {
+    background-color: rgb(241, 3, 3);
+}
+
+.user_edit {
+    padding: 10px 20px;
+    background-color: rgb(139, 162, 197);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+
+.user_edit:hover {
+    background-color: rgb(7, 136, 241);
+}
+
+.user_name {
+    text-align: center;
+    padding-bottom: 16px;
+}
